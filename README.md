@@ -1,0 +1,2 @@
+# Disinfection-tunel
+With the rise in covid 19 infections the disinfection tunnel became a necessary equipment for disinfection of people and objects before gaining access to certain areas. This repo contains the codes, list of materials and images of the final assembly. However, this repo covers more of the control aspect as it is the more difficult part of the project, and the final assembly can be made using a design and materials of choice to suit your preference.
